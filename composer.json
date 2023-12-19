@@ -1,0 +1,23 @@
+{
+    "name": "krokh/sorting-boarding-cards",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Krokh\\SortingBoardingCards\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dl Nomad",
+            "email": "krokhs@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "require": {
+        "php": "^8.2",
+        "ext-json": "*"
+    }
+}

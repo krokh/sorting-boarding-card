@@ -1,0 +1,27 @@
+[
+  {
+    "departure": "Madrid",
+    "arrival": "Barcelona",
+    "transportation": "Train 78A",
+    "seat": "45B"
+  },
+  {
+    "departure": "Barcelona",
+    "arrival": "Gerona Airport",
+    "transportation": "Airport Bus"
+  },
+  {
+    "departure": "Gerona Airport",
+    "arrival": "Stockholm",
+    "transportation": "Flight SK455",
+    "seat": "3A",
+    "baggage": "Drop at ticket counter 344"
+  },
+  {
+    "departure": "Stockholm",
+    "arrival": "New York JFK",
+    "transportation": "Flight SK22",
+    "seat": "7B",
+    "baggage": "Automatically transferred from your last leg"
+  }
+]
